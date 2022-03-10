@@ -1,0 +1,10 @@
+{
+    "require": {
+        "claviska/simpleimage": "^3.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
