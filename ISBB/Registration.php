@@ -3,8 +3,54 @@
 <body class="font-mali">
     <?php require('nav.php'); ?>
     <div class="container">
-
+        <h5 class="mt-5 "><b>Registration fee:</b></h5>
+        <!-- <div class="container"> -->
+            <table class="mt-5 table table-bordered">
+                <thead>
+                    <tr class="text-center" valign="middle" >
+                        <th></th>
+                        <th>Early bird registration fee <br>(before 27<sup>th</sup> May 2022)</th>
+                        <th>Registration fee</th>
+                    </tr>
+                    <tr valign="middle">
+                        <th>Thai participant</th>
+                        <td class="text-center">2000 THB </td>
+                        <td class="text-center">2500 THB</td>
+                    </tr>
+                    <tr valign="middle">
+                        <th>Thai student participant</th>
+                        <td class="text-center">1000 THB </td>
+                        <td class="text-center">1500 THB </td>
+                    </tr>
+                    <tr valign="middle">
+                        <th>Foreign participant</th>
+                        <td class="text-center">65 USD </td>
+                        <td class="text-center">80 USD </td>
+                    </tr>
+                    <tr valign="middle">
+                        <th>Foreign student participant</th>
+                        <td class="text-center">35 USD </td>
+                        <td class="text-center">50 USD </td>
+                    </tr>
+                </thead>
+            </table>
+        <!-- </div> -->
+        <br>
+        <p><b><u>Note:</u></b> The registration and payment will be closed on 15<sup>th</sup> June 2022.</p>
+        <p><b><u>Payment:</u></b> coming soon</p>
+        <p><b><u>Registration:</u></b> Please download registration form <a href="#">here</a> and submit to <a href="mailto:">email</a> with the payment proof.</p>
+       
+        <br>
+        <br>
+        <hr>
     </div>
+
+
+
+
+
+
+
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"
         integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous">
     </script>
