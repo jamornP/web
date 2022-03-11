@@ -1,11 +1,20 @@
 <?php require('h.php'); ?>
-
-<body class="font-mali">
+<?php 
+require('function.php'); 
+$actionmenu['Home'] = "";
+$actionmenu['Program'] = "";
+$actionmenu['Registration'] = "active";
+$actionmenu['Other'] = "";
+$actionmenu['Organization'] = "";
+$actionmenu['About'] = "";
+$actionmenu['Contact'] = "";
+?>
+<body class="font-mali fs-18">
     <?php require('nav.php'); ?>
     <div class="container">
-        <h5 class="mt-5 "><b>Registration fee:</b></h5>
+        <h5 class="mt-5 "><b><u>Registration fee:</u></b></h5>
         <!-- <div class="container"> -->
-            <table class="mt-5 table table-bordered">
+            <table class="mt-3 table table-bordered">
                 <thead>
                     <tr class="text-center" valign="middle" >
                         <th></th>

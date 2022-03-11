@@ -1,19 +1,33 @@
 <?php require('h.php'); ?>
-
-<body class="font-mali">
+<?php 
+require('function.php'); 
+$actionmenu['Home'] = "";
+$actionmenu['Program'] = "";
+$actionmenu['Registration'] = "";
+$actionmenu['Other'] = "";
+$actionmenu['Organization'] = "active";
+$actionmenu['About'] = "";
+$actionmenu['Contact'] = "";
+?>
+<body class="font-mali fs-18">
     <?php require('nav.php'); ?>
     <div class="container">
-    <h5 class="mt-5"><b>International Organizing Committee:</b></h5>
+        <h5 class="mt-5"><b>International Organizing Committee:</b></h5>
         <ul class="mt-3">
             <li>Prof. Dr. Yang Qian, Harbin Institute of Technology, P.R. China</li>
             <li>Prof. Dr. Zhang Shumei, Harbin Institute of Technology, P.R. China</li>
             <li>Assoc. Prof. Cong Hua, Harbin Institute of Technology, P.R. China</li>
             <li>Prof. Dr. Mohammad Yacout, Alexandria University, Egypt</li>
-            <li>Assoc. Prof. Dr. Chamroon Laosinwattana, King Mongkut’s Institute of Technology Ladkrabang (KMITL), Thailand</li>
-            <li>Assoc. Prof. Dr. Dusanee Thanaboripat, King Mongkut’s Institute of Technology Ladkrabang (KMITL), Thailand</li>
-            <li>Assoc. Prof. Dr. Sutee Chutipaijit, King Mongkut’s Institute of Technology Ladkrabang (KMITL), Thailand</li>
-            <li>Asst. Prof. Dr. Tongchai Puttongsiri, King Mongkut’s Institute of Technology Ladkrabang (KMITL), Thailand</li>
-            <li>Assoc. Prof. Dr. Kamronwit Thipmanee, King Mongkut’s Institute of Technology Ladkrabang (KMITL), Thailand </li>
+            <li>Assoc. Prof. Dr. Chamroon Laosinwattana, King Mongkut’s Institute of Technology Ladkrabang (KMITL),
+                Thailand</li>
+            <li>Assoc. Prof. Dr. Dusanee Thanaboripat, King Mongkut’s Institute of Technology Ladkrabang (KMITL),
+                Thailand</li>
+            <li>Assoc. Prof. Dr. Sutee Chutipaijit, King Mongkut’s Institute of Technology Ladkrabang (KMITL), Thailand
+            </li>
+            <li>Asst. Prof. Dr. Tongchai Puttongsiri, King Mongkut’s Institute of Technology Ladkrabang (KMITL),
+                Thailand</li>
+            <li>Assoc. Prof. Dr. Kamronwit Thipmanee, King Mongkut’s Institute of Technology Ladkrabang (KMITL),
+                Thailand </li>
             <li>Dr. Pramote Sirirote, Kasetsart University, Thailand</li>
 
         </ul>

@@ -1,5 +1,16 @@
 <?php require('h.php'); ?>
-<body class="font-kanit">
+<?php 
+require('function.php'); 
+$actionmenu['Home'] = "";
+$actionmenu['Program'] = "";
+$actionmenu['Registration'] = "";
+$actionmenu['Other'] = "";
+$actionmenu['Organization'] = "";
+$actionmenu['About'] = "active";
+$actionmenu['Contact'] = "";
+?>
+
+<body class="font-mali">
     <?php require('nav.php'); ?>
 <div class="container">
     <p class="mt-5 fs-18" style="text-align: justify">The intention of organizing the International Symposium on Biocontrol and Biotechnology was established when the first symposium was held in 2002 at Harbin Institute of Technology (HIT), P.R. China. Since then, the symposiums have been organized regularly by universities and institutions in various countries.</p>

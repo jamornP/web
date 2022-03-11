@@ -1,6 +1,15 @@
 <?php require('h.php'); ?>
-
-<body class="font-mali">
+<?php 
+require('function.php'); 
+$actionmenu['Home'] = "";
+$actionmenu['Program'] = "active";
+$actionmenu['Registration'] = "";
+$actionmenu['Other'] = "";
+$actionmenu['Organization'] = "";
+$actionmenu['About'] = "";
+$actionmenu['Contact'] = "";
+?>
+<body class="font-mali fs-18">
     <?php require('nav.php'); ?>
 <div class="container">
 <h5 class="mt-5 text-danger"><b>Coming soon...</b></h5>
