@@ -19,7 +19,7 @@ $actionmenu['Contact'] = "active";
             <b class="text-primary">vorapat.sa@kmitl.ac.th</b>
         </p>
         <p>or </p>
-        <p><b class="fs-18">Assoc. Prof. Cong Hua</b><br> School of Life Science and Technology, Harbin Institute of
+        <p><b class="fs-18">Assoc. Prof. Dr.Cong Hua</b><br> School of Life Science and Technology, Harbin Institute of
             Technology, Harbin 150001, P.R. China<br> Email: <b class="text-primary">conghua79@hotmail.com </b>
         </p>
         <br>

@@ -13,7 +13,7 @@ $actionmenu['Contact'] = "";
     <?php require('nav.php'); ?>
     <div class="container">
         <p class="mt-3 fs-18" style="text-align: justify">The organization committee would like to invite all
-            researchers in these fields to participate, to share and discuss their ideas, their new findings to gain
+            researchers to participate, to share and discuss their ideas, their new findings to gain
             more research insight and network among researchers around the world.</p>
         <h5 class="mt-5"><b>Scopes:</b></h5>
         <ul class="mt-3">
