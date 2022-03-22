@@ -9,7 +9,7 @@ $actionmenu['Organization'] = "";
 $actionmenu['About'] = "";
 $actionmenu['Contact'] = "";
 ?>
-<body class="font-mali fs-18">
+<body class="font-kanit fs-18">
     <?php require('nav.php'); ?>
     <div class="container">
         <p class="mt-3 fs-18" style="text-align: justify">The organization committee would like to invite all

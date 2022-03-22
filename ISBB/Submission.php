@@ -9,7 +9,7 @@ $actionmenu['Organization'] = "";
 $actionmenu['About'] = "";
 $actionmenu['Contact'] = "";
 ?>
-<body class="font-mali">
+<body class="font-kanit">
     <?php require('nav.php'); ?>
     <div class="container">
 
