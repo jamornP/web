@@ -12,50 +12,14 @@ $actionmenu['Contact'] = "";
 <body class="font-kanit fs-18">
     <?php require('nav.php'); ?>
 <div class="container">
-<!-- <h5 class="mt-5 text-danger"><b>Coming soon...</b></h5> -->
-<div class="card mt-5">
-    <div class="card-head bg-info text-white text-center">
-        <h3 class="mt-2">Programme schedule</h3>
-        <p>(Time indicated here is GMT+7)</p>
-</div>
+
+    <div class="card mt-5">
+        <div class="card-head bg-info text-white text-center">
+            <h3 class="mt-2">Programme schedule</h3>
+            <p>(Time indicated here is GMT+7)</p>
+    </div>
     <div class="card-body">
-        <!-- <table class="table">
-            <thead>
-                <tr>
-                    <th></th>
-                    <th></th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <th>Day 1 June 16, 2022</th>
-                </tr>
-                <tr>
-                    <td>8.30-9.00 hrs.</td>
-                    <td>Participant joining via zoom</td>
-                </tr>
-                <tr>
-                    <td>9.00-9.30 hrs.        </td>
-                    <td>Opening session </td>
-                </tr>
-                <tr>
-                    <td>10.00-12.00 hrs.    </td>
-                    <td>
-                        <div class="row">
-                            <div class="col-md-3">
-                            <img src="images/s1.jpg" srcset="" class="rounded w-100 mt-3">
-                            </div>
-                            <div class="col-md">
-                                <p>Topic I: “COVID-19 mRNA vaccine development: 
-ChulaCov19” 
-                               by Prof. Dr. Kiat Ruxrungtham, Chula Vaccine Research Center (ChulaVRC), School of Global Health, Faculty of Medicine, Chulalonkorn University, Thailand
-</p>
-                            </div>
-                        </div>    
-                    </td>
-                </tr>
-            </tbody>
-        </table> -->
+   
         <div class="row">
             <div class="col-md">Day 1 June 16, 2022</div>
         </div>
@@ -77,7 +41,7 @@ ChulaCov19”
         
         <div class="row mt-2">
             <div class="col-md-3"></div>
-            <div class="col-md-3"><img src="images/s1.jpg" alt="" class="rounded w-100"> </div>
+            <div class="col-md-2"><img src="images/s1.jpg" alt="" class="rounded w-100"> </div>
             <div class="col-md">
                 <p style="text-align: justify">Topic I: “COVID-19 mRNA vaccine development: ChulaCov19” <br>by Prof. Dr. Kiat Ruxrungtham, Chula Vaccine Research Center (ChulaVRC), School of Global Health, Faculty of Medicine, Chulalonkorn University, Thailand
                 </p>
@@ -85,7 +49,7 @@ ChulaCov19”
         </div>
         <div class="row mt-2">
             <div class="col-md-3"></div>
-            <div class="col-md-3"><img src="images/s2.jpg" alt="" class="rounded w-100"> </div>
+            <div class="col-md-2"><img src="images/s2.jpg" alt="" class="rounded w-100"> </div>
             <div class="col-md">
                 <p style="text-align: justify">Topic II: “Control of plant and food pathogens by vapor-phase vinegar”<br>by Prof. Dr. Warawut Krusong, School of Food Industry,King Mongkut’s Institute of Technology Ladkrabang, Thailand
                 </p>
@@ -93,9 +57,9 @@ ChulaCov19”
         </div>
         <div class="row mt-2">
             <div class="col-md-3"></div>
-            <div class="col-md-3"><img src="images/s3.jpg" alt="" class="rounded w-100"> </div>
+            <div class="col-md-2"><img src="images/s3.jpg" alt="" class="rounded w-100"> </div>
             <div class="col-md">
-                <p style="text-align: justify">TTopic III: “Extension of the biotecnique for recycling the waste from potato starch industry” <br>by Prof. Dr. Yang Qian, School of Life Science and Technology, Harbin Institute of Technology, P.R. China
+                <p style="text-align: justify">Topic III: “Extension of the biotecnique for recycling the waste from potato starch industry” <br>by Prof. Dr. Yang Qian, School of Life Science and Technology, Harbin Institute of Technology, P.R. China
                 </p>
             </div>
         </div>
@@ -111,7 +75,7 @@ ChulaCov19”
         </div>
         <div class="row mt-2">
             <div class="col-md-3"></div>
-            <div class="col-md-3"><img src="images/s4.jpg" alt="" class="rounded w-100"> </div>
+            <div class="col-md-2"><img src="images/s4.jpg" alt="" class="rounded w-100"> </div>
             <div class="col-md">
                 <p style="text-align: justify">Topic IV: “Biological control of erophyoid mites and their use as biological agents for weed control”<br>by Assoc. Prof. Dr. Mariusz Lewandowski, Department of Plant Protection, Institute of Horticultural Sciences, Poland
                 </p>
@@ -124,10 +88,27 @@ ChulaCov19”
         </div>
         <hr>
         <div class="row">
-            <div class="col-md">Day 1 June 16, 2022</div>
+            <div class="col-md bg-">Day 1 June 16, 2022</div>
+        </div>
+        <hr>
+        <div class="row mt-2">
+            <div class="col-md-3">9.00-15.00 hrs.</div>
+            <div class="col-md">Oral session/Poster session</div>
+        </div>
+        <hr>
+        <div class="row mt-2">
+            <div class="col-md-3">15.00-16.00 hrs.</div>
+            <div class="col-md">
+                <p style="text-align: justify">Award of best oral/poster presentation and announcement of the host for the 19th International Symposium and Closing ceremony
+                </p>
+            </div>
         </div>
         <hr>
     </div>
+    <br>
+    <br>
+    <br>
+    <br>
 </div>
 </div>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
