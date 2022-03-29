@@ -47,7 +47,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link <?php echo $actionmenu['Organization'];?>" aria-current="page" href="Organization.php">Organization</a>
+                        <a class="nav-link <?php echo $actionmenu['Organization'];?>" aria-current="page" href="Organization.php">Organizing Committee</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link <?php echo $actionmenu['About'];?>" aria-current="page" href="About.php">About</a>

@@ -47,7 +47,7 @@ $actionmenu['Contact'] = "";
         <br>
         <p><b><u>Note:</u></b> The registration and payment will be closed on 15<sup>th</sup> June 2022.</p>
         <p><b><u>Payment:</u></b> coming soon</p>
-        <p><b><u>Registration:</u></b> Please download registration form <a href="#">here</a> and submit to <a href="mailto:">email</a> with the payment proof.</p>
+        <p><b><u>Registration:</u></b> Please download registration form <a href="#">here</a> and submit to <a href="mailto:isbbcontact@kmitl.ac.th">email</a> with the payment proof.</p>
        
         <br>
         <br>
