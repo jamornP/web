@@ -1,7 +1,7 @@
 <?php require('function.php'); ?>
 
 <section class="container">
-    <img src="http://18isbb.sggw.pl/wp-content/uploads/2019/11/cropped-loga_ISBB_4-3.jpg" alt="" srcset=""
+    <img src="./images/header01.png" alt="" srcset=""
         class="w-100">
 
 </section>
