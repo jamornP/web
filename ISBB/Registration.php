@@ -18,7 +18,7 @@ $actionmenu['Contact'] = "";
                 <thead>
                     <tr class="text-center" valign="middle" >
                         <th></th>
-                        <th>Early bird registration fee <br>(before 27<sup>th</sup> May 2022)</th>
+                        <th>Early bird registration fee <br>(before May 27, 2022)</th>
                         <th>Registration fee</th>
                     </tr>
                     <tr valign="middle">
@@ -45,7 +45,7 @@ $actionmenu['Contact'] = "";
             </table>
         <!-- </div> -->
         <br>
-        <p><b><u>Note:</u></b> The registration and payment will be closed on 15<sup>th</sup> June 2022.</p>
+        <p><b><u>Note:</u></b> The registration and payment will be closed on June 15, 2022.</p>
         <p><b><u>Payment:</u></b> coming soon</p>
         <p><b><u>Registration:</u></b> Please download registration form <a href="#">here</a> and submit to <a href="mailto:isbbcontact@kmitl.ac.th">email</a> with the payment proof.</p>
        

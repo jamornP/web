@@ -15,27 +15,27 @@ $actionmenu['Contact'] = "";
 
     <div class="card mt-5">
         <div class="card-head bg-info text-white text-center">
-            <h3 class="mt-2">Programme schedule</h3>
+            <h3 class="mt-2">Program schedule</h3>
             <p>(Time indicated here is GMT+7)</p>
     </div>
     <div class="card-body">
    
         <div class="row">
-            <div class="col-md">Day 1 June 16, 2022</div>
+            <div class="col-md">Day 1: June 16, 2022</div>
         </div>
         <hr>
         <div class="row mt-2">
-            <div class="col-md-3">8.30-9.00 hrs.</div>
+            <div class="col-md-3">8.30-9.00 h</div>
             <div class="col-md">Participant joining via zoom</div>
         </div>
         <hr>
         <div class="row mt-2">
-            <div class="col-md-3">9.00-9.30 hrs.        </div>
+            <div class="col-md-3">9.00-9.30 h</div>
             <div class="col-md">Opening session </div>
         </div>
         <hr>
         <div class="row mt-2">
-            <div class="col-md-3">10.00-12.00 hrs.        </div>
+            <div class="col-md-3">10.00-12.00 h</div>
             <div class="col-md">Plenary session  I </div>
         </div>
         
@@ -43,7 +43,7 @@ $actionmenu['Contact'] = "";
             <div class="col-md-3"></div>
             <div class="col-md-2"><img src="images/s1.jpg" alt="" class="rounded w-100"> </div>
             <div class="col-md">
-                <p style="text-align: justify">Topic I: “COVID-19 mRNA vaccine development: ChulaCov19” <br>by Prof. Dr. Kiat Ruxrungtham, Chula Vaccine Research Center (ChulaVRC), School of Global Health, Faculty of Medicine, Chulalonkorn University, Thailand
+                <p style="text-align: justify">Topic I: “COVID-19 mRNA vaccine development: ChulaCov19” <br>by Prof. Dr. Kiat Ruxrungtham, Chula Vaccine Research Center (ChulaVRC), School of Global Health, Faculty of Medicine, Chulalongkorn University, Thailand
                 </p>
             </div>
         </div>
@@ -65,12 +65,12 @@ $actionmenu['Contact'] = "";
         </div>
         <hr>
         <div class="row mt-2">
-            <div class="col-md-3">12.00-13.00 hrs.</div>
+            <div class="col-md-3">12.00-13.00 h</div>
             <div class="col-md">Lunch </div>
         </div>
         <hr>
         <div class="row mt-2">
-            <div class="col-md-3">13.00-14.00 hrs.</div>
+            <div class="col-md-3">13.00-14.00 h</div>
             <div class="col-md">Plenary session II  </div>
         </div>
         <div class="row mt-2">
@@ -83,21 +83,21 @@ $actionmenu['Contact'] = "";
         </div>
         <hr>
         <div class="row mt-2">
-            <div class="col-md-3">14.00-16.00 hrs.</div>
+            <div class="col-md-3">14.00-16.00 h</div>
             <div class="col-md">Oral session I </div>
         </div>
         <hr>
         <div class="row">
-            <div class="col-md bg-">Day 1 June 16, 2022</div>
+            <div class="col-md bg-">Day 2: June 17, 2022</div>
         </div>
         <hr>
         <div class="row mt-2">
-            <div class="col-md-3">9.00-15.00 hrs.</div>
+            <div class="col-md-3">9.00-15.00 h</div>
             <div class="col-md">Oral session/Poster session</div>
         </div>
         <hr>
         <div class="row mt-2">
-            <div class="col-md-3">15.00-16.00 hrs.</div>
+            <div class="col-md-3">15.00-16.00 h</div>
             <div class="col-md">
                 <p style="text-align: justify">Award of best oral/poster presentation and announcement of the host for the 19th International Symposium and Closing ceremony
                 </p>

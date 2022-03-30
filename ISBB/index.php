@@ -36,9 +36,9 @@ $actionmenu['Contact'] = "";
         </ul>
         <h5 class="mt-5"><b>Important Date:</b></h5>
         <ul class="mt-3" type="circle">
-            <li>Abstract submission: 1<sup>st</sup> May 2022</li>
-            <li>Early bird registration: 27<sup>th</sup> May 2022</li>
-            <li>Full paper submission: 1<sup>st</sup> June 2022</li>
+            <li>Abstract submission:  May 1, 2022</li>
+            <li>Early bird registration:  May 27, 2022</li>
+            <li>Full paper submission:  June 1, 2022</li>
         </ul>
         <h5 class="mt-5"><b>International Organizing Committee:</b></h5>
         <ul class="mt-3">
@@ -58,7 +58,7 @@ $actionmenu['Contact'] = "";
         <p><b class="fs-18">Asst. Prof. Dr. Vorapat Sanguanchaipaiwong</b><br> School of Science, King Mongkut’s Institute of Technology Ladkrabang<br> Chalongkrung Road, Ladkrabang District, Bangkok 10520, Thailand<br> Email:
             <b class="text-primary">vorapat.sa@kmitl.ac.th</b> </p>
             <p>or </p>
-            <p><b class="fs-18">Assoc. Prof. Dr.Cong Hua</b><br> School of Life Science and Technology, Harbin Institute of Technology, Harbin 150001, P.R. China<br> Email: <b class="text-primary">conghua79@hotmail.com </b>
+            <p><b class="fs-18">Assoc. Prof. Dr. Cong Hua</b><br> School of Life Science and Technology, Harbin Institute of Technology, Harbin 150001, P.R. China<br> Email: <b class="text-primary">conghua79@hotmail.com </b>
         </p>
         <br>
         <br>
