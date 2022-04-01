@@ -13,8 +13,11 @@ $actionmenu['Contact'] = "";
 <body class="font-kanit">
     <?php require('nav.php'); ?>
 <div class="container">
-    <p class="mt-5 fs-18" style="text-align: justify">The intention of organizing the International Symposium on Biocontrol and Biotechnology was established when the first symposium was held in 2002 at Harbin Institute of Technology (HIT), P.R. China. Since then, the symposiums have been organized regularly by universities and institutions in various countries.</p>
+    <img src="images/S__1.jpg" alt="" class="rounded w-100 mt-2">
+    <p class="mt-2 fs-18" style="text-align: justify">The intention of organizing the International Symposium on Biocontrol and Biotechnology was established when the first symposium was held in 2002 at Harbin Institute of Technology (HIT), P.R. China. Since then, the symposiums have been organized regularly by universities and institutions in various countries.</p>
+    <img src="images/S__2.jpg" alt="" class="rounded w-100">
     <p class="mt-2 fs-18" style="text-align: justify"> The 2<sup>nd</sup> and 3<sup>rd</sup> symposia were organized by King Mongkut’s Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand and Huazhong Agricultural University, Wuhan, P.R. China, in 2003 and 2005, respectively.</p>
+    <img src="images/S__3.jpg" alt="" class="rounded w-100">
     <p class="mt-2 fs-18" style="text-align: justify"> The 4<sup>th</sup> symposium was held by Lady Doak College, Madurai, India in 2006 and the 5<sup>th</sup> symposium was co-organized by KMITL and Khon Kaen University, Nongkhai Campus, Thailand on November 1-3, 2007.</p>
     <p class="mt-2 fs-18" style="text-align: justify"> The 6<sup>th</sup> symposium was co-organized by Central Luzon State University, Philippines, HIT and KMITL in 2008 and the 7<sup>th</sup> one was organized by HIT, Weihai Campus, P.R. China in 2009. </p>
     <p class="mt-2 fs-18" style="text-align: justify">The 8<sup>th</sup> Symposium was organized by KMITL, Thailand in 2010 and the 9<sup>th</sup> was organized by the Institute of Tropical Biology Technology of the Chinese Academy Tropical Sciences, Hainan University, State Key Laboratory of Agricultural Microbiology and National Engineering Research Center of Microbial Pesticides, P.R. China in 2011.</p>
