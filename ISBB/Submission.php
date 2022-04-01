@@ -17,9 +17,10 @@ $actionmenu['Contact'] = "";
         <a href="mailto:isbbcontact@kmitl.ac.th">isbbcontact@kmitl.ac.th.</a>
         </p>
         <p>The deadline to submit the abstract is May 1, 2022.</p>
-        <p>The template file for the abstract can be downloaded <a href="#">here</a>.</p>
-        <p>For full paper submission, please follow the <a href="#">Guideline for author</a> of Current Applied Science and Technology and download the template <a href="#">here</a>
+        <p>The template file for the abstract can be downloaded <a href="./download/Template-for-abstract.docx">here</a>.</p>
+        <p>For full paper submission, please follow the <a href="./download/Guideline-for-author.pdf">Guideline for author</a> of Current Applied Science and Technology and download the template <a href="./download/Template-for-full-manuscript.docx">here</a>
 </p>
+
        
     
     </div>

@@ -13,6 +13,13 @@ $actionmenu['Contact'] = "";
     <?php require('nav.php'); ?>
 <div class="container">
 
+    <div class="row mt-5">
+        <div class="col-lg"></div>
+        <div class="col-lg-8"><img src="images/poster.png" alt="" class="rounded w-100"></div>
+        <div class="col-lg"></div>
+    
+    </div>
+
     <div class="card mt-5">
         <div class="card-head bg-info text-white text-center">
             <h3 class="mt-2">Program schedule</h3>
@@ -21,7 +28,7 @@ $actionmenu['Contact'] = "";
     <div class="card-body">
    
         <div class="row">
-            <div class="col-md">Day 1: June 16, 2022</div>
+            <div class="col-md bg-warning">Day 1: June 16, 2022</div>
         </div>
         <hr>
         <div class="row mt-2">
@@ -41,7 +48,7 @@ $actionmenu['Contact'] = "";
         
         <div class="row mt-2">
             <div class="col-md-3"></div>
-            <div class="col-md-2"><img src="images/s1.jpg" alt="" class="rounded w-100"> </div>
+            <div class="col-md-2"><img src="images/s01.png" alt="" class="rounded w-100"> </div>
             <div class="col-md">
                 <p style="text-align: justify">Topic I: “COVID-19 mRNA vaccine development: ChulaCov19” <br>by Prof. Dr. Kiat Ruxrungtham, Chula Vaccine Research Center (ChulaVRC), School of Global Health, Faculty of Medicine, Chulalongkorn University, Thailand
                 </p>
@@ -49,7 +56,7 @@ $actionmenu['Contact'] = "";
         </div>
         <div class="row mt-2">
             <div class="col-md-3"></div>
-            <div class="col-md-2"><img src="images/s2.jpg" alt="" class="rounded w-100"> </div>
+            <div class="col-md-2"><img src="images/s02.png" alt="" class="rounded w-100"> </div>
             <div class="col-md">
                 <p style="text-align: justify">Topic II: “Control of plant and food pathogens by vapor-phase vinegar”<br>by Prof. Dr. Warawut Krusong, School of Food Industry,King Mongkut’s Institute of Technology Ladkrabang, Thailand
                 </p>
@@ -57,7 +64,7 @@ $actionmenu['Contact'] = "";
         </div>
         <div class="row mt-2">
             <div class="col-md-3"></div>
-            <div class="col-md-2"><img src="images/s3.jpg" alt="" class="rounded w-100"> </div>
+            <div class="col-md-2"><img src="images/s03.png" alt="" class="rounded w-100"> </div>
             <div class="col-md">
                 <p style="text-align: justify">Topic III: “Extension of the biotecnique for recycling the waste from potato starch industry” <br>by Prof. Dr. Yang Qian, School of Life Science and Technology, Harbin Institute of Technology, P.R. China
                 </p>
@@ -75,7 +82,7 @@ $actionmenu['Contact'] = "";
         </div>
         <div class="row mt-2">
             <div class="col-md-3"></div>
-            <div class="col-md-2"><img src="images/s4.jpg" alt="" class="rounded w-100"> </div>
+            <div class="col-md-2"><img src="images/s04.png" alt="" class="rounded w-100"> </div>
             <div class="col-md">
                 <p style="text-align: justify">Topic IV: “Biological control of erophyoid mites and their use as biological agents for weed control”<br>by Assoc. Prof. Dr. Mariusz Lewandowski, Department of Plant Protection, Institute of Horticultural Sciences, Poland
                 </p>
@@ -88,7 +95,7 @@ $actionmenu['Contact'] = "";
         </div>
         <hr>
         <div class="row">
-            <div class="col-md bg-">Day 2: June 17, 2022</div>
+            <div class="col-md bg-success">Day 2: June 17, 2022</div>
         </div>
         <hr>
         <div class="row mt-2">
