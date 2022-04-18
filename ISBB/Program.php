@@ -93,6 +93,16 @@ $actionmenu['Contact'] = "";
             <div class="col-md-3">14.00-16.00 h</div>
             <div class="col-md">Oral session I </div>
         </div>
+        <div class="row mt-2">
+            <div class="col-md-3"></div>
+            <div class="col-md-2"><img src="images/s05.png" alt="" class="rounded w-100"> </div>
+            <div class="col-md">
+                <p style="text-align: justify">Invited Speaker
+                    Topic "A engineered genetic selection strategy to uncover productive binders against difficult-to-drug targets"
+                    <br>by Dr.Bunyarit Meksiriporn
+                </p>
+            </div>
+        </div>
         <hr>
         <div class="row">
             <div class="col-md bg-success">Day 2: June 17, 2022</div>
