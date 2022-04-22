@@ -15,7 +15,7 @@ $actionmenu['Contact'] = "";
 
     <div class="row mt-5">
         <div class="col-lg"></div>
-        <div class="col-lg-8"><img src="images/poster.png" alt="" class="rounded w-100"></div>
+        <div class="col-lg-8"><img src="images/poster-n.png" alt="" class="rounded w-100"></div>
         <div class="col-lg"></div>
     
     </div>
@@ -66,7 +66,7 @@ $actionmenu['Contact'] = "";
             <div class="col-md-3"></div>
             <div class="col-md-2"><img src="images/s03.png" alt="" class="rounded w-100"> </div>
             <div class="col-md">
-                <p style="text-align: justify">Topic III: “Extension of the biotecnique for recycling the waste from potato starch industry” <br>by Prof. Dr. Yang Qian, School of Life Science and Technology, Harbin Institute of Technology, P.R. China
+                <p style="text-align: justify">Topic III: “Extension of the biotechnique for recycling the waste from potato starch industry” <br>by Prof. Dr. Yang Qian, School of Life Science and Technology, Harbin Institute of Technology, P.R. China
                 </p>
             </div>
         </div>
