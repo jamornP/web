@@ -18,7 +18,7 @@ $actionmenu['Contact'] = "";
                 <thead>
                     <tr class="text-center" valign="middle" >
                         <th></th>
-                        <th>Early bird registration fee <br>((une 17, 2022)</th>
+                        <th>Early bird registration fee <br>(June 17, 2022)</th>
                         <th>Registration fee</th>
                     </tr>
                     <tr valign="middle">

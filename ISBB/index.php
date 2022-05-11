@@ -37,7 +37,7 @@ $actionmenu['Contact'] = "";
         <h5 class="mt-5"><b>Important Date:</b></h5>
         <ul class="mt-3" type="circle">
             <li>Abstract submission:  May 31, 2022</li>
-            <li>Early bird registration:  May 6, 2022</li>
+            <li>Early bird registration:  June 6, 2022</li>
             <li>Full paper submission:  June 17, 2022</li>
         </ul>
         <h5 class="mt-5"><b>International Organizing Committee:</b></h5>
