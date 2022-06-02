@@ -48,13 +48,13 @@ $actionmenu['Contact'] = "";
         <p><b><u>Note:</u></b> The registration and payment will be closed on June 15, 2022.</p>
         <p><b><u>Payment:</u> <br>For Thai and Thai student participants </b>
 Krungthai Bank 
-Account number: 693-0-43369-1
+Account number: 693-0-43369-1 Account name: School of Science KMITL
 Branch: King Mongkuts Institute Of Technology Ladkrabang 
 (Branch Code 693)
 <br><b>
 For foreign and foreign participants</b>
 Bank Name : Krung Thai Bank Public Company Limited (KTB)
-Account number: 693-0-43369-1
+Account number: 693-0-43369-1 Account name: School of Science KMITL
 SWIFTCODE : KRTHTHBK
 Address : 35 Sukhumvit Road, Klong Toey Nua Wattana, Bangkok 10110
 Branch: King Mongkuts Institute Of Technology Ladkrabang 
