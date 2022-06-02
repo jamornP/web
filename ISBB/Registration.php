@@ -46,21 +46,24 @@ $actionmenu['Contact'] = "";
         <!-- </div> -->
         <br>
         <p><b><u>Note:</u></b> The registration and payment will be closed on June 15, 2022.</p>
-        <p><b><u>Payment:</u> <br>For Thai and Thai student participants </b>
-        <br>Krungthai Bank 
-        <br>Account number: 693-0-43369-1 <br>Account name: School of Science KMITL
-        <br>Branch: King Mongkuts Institute Of Technology Ladkrabang 
-(Branch Code 693)
-<br><b>
-For foreign and foreign participants</b>
-<br>Bank Name : Krung Thai Bank Public Company Limited (KTB)
-<br>Account number: 693-0-43369-1 <br>Account name: School of Science KMITL
-<br>SWIFTCODE : KRTHTHBK
-<br>Address : 35 Sukhumvit Road, Klong Toey Nua Wattana, Bangkok 10110
-<br>Branch: King Mongkuts Institute Of Technology Ladkrabang 
-(Branch Code 693)</p>
-        <!-- <p><b><u>Registration:</u></b> Please download registration form <a href="https://forms.office.com/r/Jgke0MrHXt">here</a> and submit to email<a href="mailto:isbbcontact@kmitl.ac.th">(issbbcontact@kmitl.ac.th)</a> with the payment proof.</p> -->
         <p><b><u>Registration:</u></b> Please click the link <a href="https://forms.office.com/r/Jgke0MrHXt">here</a> to make registration and submit the payment proof to email <a href="mailto:isbbcontact@kmitl.ac.th">(isbbcontact@kmitl.ac.th)</a>.</p>
+        <p><b><u>Payment:</u> <br><br>&nbsp;&nbsp;&nbsp;For Thai and Thai student participants </b>
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Krungthai Bank 
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Account number: 693-0-43369-1 
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Account name: School of Science KMITL
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Branch: King Mongkuts Institute Of Technology Ladkrabang 
+        (Branch Code 693)
+        <br><br>&nbsp;&nbsp;&nbsp;<b>
+        For foreign and foreign participants</b>
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bank Name : Krung Thai Bank Public Company Limited (KTB)
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Account number: 693-0-43369-1 
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Account name: School of Science KMITL
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SWIFTCODE : KRTHTHBK
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Address : 35 Sukhumvit Road, Klong Toey Nua Wattana, Bangkok 10110
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Branch: King Mongkuts Institute Of Technology Ladkrabang 
+        (Branch Code 693)</p>
+        <!-- <p><b><u>Registration:</u></b> Please download registration form <a href="https://forms.office.com/r/Jgke0MrHXt">here</a> and submit to email<a href="mailto:isbbcontact@kmitl.ac.th">(issbbcontact@kmitl.ac.th)</a> with the payment proof.</p> -->
+        
         <br>
         <br>
         <hr>
