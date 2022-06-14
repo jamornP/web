@@ -15,7 +15,7 @@ $actionmenu['Contact'] = "";
 
     <div class="row mt-5">
         <div class="col-lg"></div>
-        <div class="col-lg-8"><img src="images/poster-n.png" alt="" class="rounded w-100"></div>
+        <div class="col-lg-8"><img src="images/poster-n2.png" alt="" class="rounded w-100"></div>
         <div class="col-lg"></div>
     
     </div>
