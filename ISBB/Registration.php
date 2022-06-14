@@ -18,28 +18,28 @@ $actionmenu['Contact'] = "";
                 <thead>
                     <tr class="text-center" valign="middle" >
                         <th></th>
-                        <th>Early bird registration fee <br>(June 15, 2022)</th>
-                        <th>Registration fee</th>
+                        <th> Registration fee </th>
+                        <!-- <th>Registration fee</th> -->
                     </tr>
                     <tr valign="middle">
                         <th>Thai participant</th>
                         <td class="text-center">2000 THB </td>
-                        <td class="text-center">2500 THB</td>
+                        <!-- <td class="text-center">2500 THB</td> -->
                     </tr>
                     <tr valign="middle">
                         <th>Thai student participant</th>
                         <td class="text-center">1000 THB </td>
-                        <td class="text-center">1500 THB </td>
+                        <!-- <td class="text-center">1500 THB </td> -->
                     </tr>
                     <tr valign="middle">
                         <th>Foreign participant</th>
                         <td class="text-center">65 USD </td>
-                        <td class="text-center">80 USD </td>
+                        <!-- <td class="text-center">80 USD </td> -->
                     </tr>
                     <tr valign="middle">
                         <th>Foreign student participant</th>
                         <td class="text-center">35 USD </td>
-                        <td class="text-center">50 USD </td>
+                        <!-- <td class="text-center">50 USD </td> -->
                     </tr>
                 </thead>
             </table>
