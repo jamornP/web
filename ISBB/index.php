@@ -23,7 +23,10 @@ $actionmenu['Contact'] = "";
     </div>
     <div class="container">
         <p class="mt-5"style="text-align: justify">School of Science and School of Agricultural Technology, King Mongkut’s Institute of Technology Ladkrabang (KMITL), Thailand, in collaboration with Chinese Society for Microbiology, Heilongjiang Province Society of Microbiology, Heilongjiang Province Society of Bionic and Harbin Institute of Technology (HIT), P.R. China, jointly organize the 18<sup>th</sup> International Symposium on Biocontrol and Biotechnology online via Zoom during June 16-17, 2022. The 18<sup>th</sup> International Symposium was previously planned to be hosted in Warsaw University of Life Science, Poland. However, the symposium has to be postponed for two consecutive years due to covid crisis. Hopefully, the 19<sup>th</sup> International Symposium will be hosted in Poland if covid situation is resolved.  The organization committee would like to invite all researchers in the fields of Biocontrol and Biotechnology to participate, to share and discuss their ideas, their new findings in order to gain more research insight and network among researchers around the world.</p>
-        <h5 class="mt-5 text-primary"style="text-align: justify"><a class="btn btn-sm btn-warning text-white fs-20" href="/web/ISBB/download/Final program ISBB 2022 .pdf" target='_blank'> Download here  </a> for final program. <br>The zoom has been sent to all participants via email using for registration. </h5>
+        <h5 class="mt-5 text-primary"style="text-align: justify"><a class="btn btn-sm btn-warning text-white fs-20" href="/web/ISBB/download/Final program ISBB 2022 .pdf" target='_blank'> Download here  </a> for final program. <br>
+        <a class="btn btn-sm btn-warning text-white fs-20 mt-1" href="/web/ISBB/download/ISBB2022 Abstract and Program Book.pdf" target='_blank'> Abstract Book  </a> <br>
+        <a class="btn btn-sm btn-warning text-white fs-20 mt-1" href="/web/ISBB/download/HDTV Zoom.png" target='_blank'> zoom background  </a> <br><br>
+        The zoom has been sent to all participants via email using for registration. </h5>
         <h5 class="mt-5"><b>Areas of interests:</b></h5>
         <ul class="mt-3">
             <li>Biotechnological approach to biocontrol</li>
